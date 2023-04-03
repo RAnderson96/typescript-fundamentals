@@ -46,7 +46,7 @@ module.exports = {
   ].concat(htmlPlugins),
   devServer: {
     compress: true,
-    port: 9000,
+    port: 9001,
   },
 };
 
